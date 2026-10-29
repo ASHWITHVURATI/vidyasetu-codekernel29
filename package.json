@@ -1,0 +1,22 @@
+{
+  "name": "vidyasetu-adaptive-learning",
+  "version": "1.0.0",
+  "description": "Adaptive Learning Platform for Indian Classes 6 to 10 (Code Kernel '26)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  },
+  "keywords": [
+    "adaptive-learning",
+    "edtech",
+    "bkt",
+    "code-kernel-26"
+  ],
+  "author": "VidyaSetu Team",
+  "license": "MIT"
+}
